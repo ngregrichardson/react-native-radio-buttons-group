@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/thakurballary/react-native-radio-buttons-group.git"
+    "url": "git+https://github.com/ngregrichardson/react-native-radio-buttons-group.git"
   },
   "keywords": [
     "react native-radio-buttons",
@@ -30,7 +30,7 @@
   "author": "Thakur Ballary",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/thakurballary/react-native-radio-buttons-group/issues"
+    "url": "https://github.com/ngregrichardson/react-native-radio-buttons-group/issues"
   },
-  "homepage": "https://github.com/thakurballary/react-native-radio-buttons-group#readme"
+  "homepage": "https://github.com/ngregrichardson/react-native-radio-buttons-group#readme"
 }
